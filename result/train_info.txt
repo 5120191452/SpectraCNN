@@ -1,0 +1,4 @@
+Epoch 1/200: Train Loss: 1.1332, Accuracy: 0.3867924528301887
+Epoch 2/200: Train Loss: 1.0151, Accuracy: 0.4779874213836478
+Epoch 3/200: Train Loss: 0.9660, Accuracy: 0.5387840670859538
+Epoch 4/200: Train Loss: 0.8967, Accuracy: 0.5613207547169812
